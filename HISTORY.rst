@@ -3,6 +3,34 @@
 Release History
 ---------------
 
+1.1.9 (2018-01-03 aka the day the CPUs fell)
+--------------------------------------------
+
+**Intel API Fix**
+
+- https://github.com/blacktop/virustotal-api/pull/22 (credit: @leadZERO)
+
+1.1.7 (2017-05-28)
+------------------
+
+**Intel API Fix**
+
+- https://github.com/blacktop/virustotal-api/pull/18 (credit: @doug-the-guy)
+
+1.1.6 (2017-05-14)
+------------------
+
+**Py3 Fix**
+
+- Change `e.message` to `str(message)` (credit: [@DeanF](https://github.com/blacktop/virustotal-api/pull/19))
+
+1.1.5 (2017-04-13)
+------------------
+
+**API Changes**
+
+- Added Intelligence notifications feed and ability to programmatically delete notifications from the feed. (credit: @keithjjones)
+
 1.1.4 (2017-03-11)
 ------------------
 
